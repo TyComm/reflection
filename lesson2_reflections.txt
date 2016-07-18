@@ -1,19 +1,24 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Git creates a hiddend directory to store metadata to manage version history.
+	Git creates a hiddend directory to store metadata to manage version history.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-Staging area is temporary area to contain changes to be commited together.
+	Staging area is temporary area to contain changes to be commited together.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	git add multiple files that belongs to single logical unit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When making some temporary changes and do some experiments.
+
 How do the diagrams help you visualize the branch structure?
+
+	See it from conceptual point of view?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

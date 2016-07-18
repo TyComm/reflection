@@ -1,1 +1,6 @@
 This is lessons 3 reflections file.
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+	Because I may have some experimental changes I may want to discard.
